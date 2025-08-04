@@ -1,11 +1,6 @@
-# Gadio Video
+# Gadeo
 
 ![sample](https://static.gcores.com/assets/25c9a8fc027ac16ba3e7fe996551f828.png)
-
-|Platform|Test Result|
-|:---:|:---:|
-|Windows|[![Build status](https://rabbitism.visualstudio.com/GadioVideo/_apis/build/status/GadioVideo-Python%20Windows%20Test)](https://rabbitism.visualstudio.com/GadioVideo/_build/latest?definitionId=2)|
-|macOS|[![Build status](https://rabbitism.visualstudio.com/GadioVideo/_apis/build/status/GadioVideo-Python%20macOS)](https://rabbitism.visualstudio.com/GadioVideo/_build/latest?definitionId=1)|
 
 本脚本的作用是利用[机核网](https://www.gcores.com)的图文电台时间轴信息自动生成视频。
 
